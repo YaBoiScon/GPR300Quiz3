@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Quiz3-1391.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Repos\GPR300Quiz3\Quiz3\Intermediate\Build\Win64\Quiz3Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Repos\GPR300Quiz3\Quiz3\Intermediate\Build\Win64\UE4Editor\Development\Quiz3\Quiz3.cpp.obj"
+"D:\Repos\GPR300Quiz3\Quiz3\Intermediate\Build\Win64\UE4Editor\Development\Quiz3\Quiz3Character.cpp.obj"
+"D:\Repos\GPR300Quiz3\Quiz3\Intermediate\Build\Win64\UE4Editor\Development\Quiz3\Quiz3GameMode.cpp.obj"
+"D:\Repos\GPR300Quiz3\Quiz3\Intermediate\Build\Win64\UE4Editor\Development\Quiz3\Quiz3.init.gen.cpp.obj"
+"D:\Repos\GPR300Quiz3\Quiz3\Intermediate\Build\Win64\UE4Editor\Development\Quiz3\Quiz3Character.gen.cpp.obj"
+"D:\Repos\GPR300Quiz3\Quiz3\Intermediate\Build\Win64\UE4Editor\Development\Quiz3\Quiz3GameMode.gen.cpp.obj"
+"D:\Repos\GPR300Quiz3\Quiz3\Intermediate\Build\Win64\UE4Editor\Development\Quiz3\Default.rc2.res"
+/OUT:"D:\Repos\GPR300Quiz3\Quiz3\Intermediate\Build\Win64\UE4Editor\Development\Quiz3\UE4Editor-Quiz3-1391.lib"

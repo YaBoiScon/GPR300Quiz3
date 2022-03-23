@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Quiz3",
+			"Path": "D:\\Repos\\GPR300Quiz3\\Quiz3\\Source\\Quiz3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Quiz3Editor",
+			"Path": "D:\\Repos\\GPR300Quiz3\\Quiz3\\Source\\Quiz3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

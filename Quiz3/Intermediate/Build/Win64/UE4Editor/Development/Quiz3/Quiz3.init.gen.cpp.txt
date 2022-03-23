@@ -1,0 +1,3 @@
+D:\Repos\GPR300Quiz3\Quiz3\Intermediate\Build\Win64\UE4Editor\Development\Quiz3\Definitions.Quiz3.h
+D:\Program Files\Epic\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

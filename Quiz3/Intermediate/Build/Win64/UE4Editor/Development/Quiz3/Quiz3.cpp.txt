@@ -1,0 +1,2 @@
+D:\Repos\GPR300Quiz3\Quiz3\Intermediate\Build\Win64\UE4Editor\Development\Quiz3\Definitions.Quiz3.h
+D:\Repos\GPR300Quiz3\Quiz3\Source\Quiz3\Quiz3.h

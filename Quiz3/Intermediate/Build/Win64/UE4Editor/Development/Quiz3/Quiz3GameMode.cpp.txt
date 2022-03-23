@@ -1,0 +1,15 @@
+D:\Repos\GPR300Quiz3\Quiz3\Intermediate\Build\Win64\UE4Editor\Development\Quiz3\Definitions.Quiz3.h
+D:\Repos\GPR300Quiz3\Quiz3\Source\Quiz3\Quiz3GameMode.h
+D:\Program Files\Epic\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Program Files\Epic\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Program Files\Epic\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Program Files\Epic\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Repos\GPR300Quiz3\Quiz3\Intermediate\Build\Win64\UE4Editor\Inc\Quiz3\Quiz3GameMode.generated.h
+D:\Repos\GPR300Quiz3\Quiz3\Source\Quiz3\Quiz3Character.h
+D:\Program Files\Epic\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Program Files\Epic\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\Program Files\Epic\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\Program Files\Epic\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Program Files\Epic\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Program Files\Epic\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Repos\GPR300Quiz3\Quiz3\Intermediate\Build\Win64\UE4Editor\Inc\Quiz3\Quiz3Character.generated.h
